@@ -70,7 +70,6 @@ body {
 }
 .row .item {
     font-size: xx-large;
-    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
